@@ -1,0 +1,14 @@
+{
+  "name": "ankur-weds-kajol",
+  "version": "1.0.0",
+  "description": "Wedding Invitation Website for Ankur & Kajol",
+  "scripts": {
+    "dev": "vite --port 3000 --open",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
